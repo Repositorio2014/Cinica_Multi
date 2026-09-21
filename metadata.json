@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Multi",
+  "description": "Sistema de gestão e prontuário eletrônico para a Clínica Multi de saúde e terapias integradas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
